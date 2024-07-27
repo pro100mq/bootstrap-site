@@ -1,0 +1,48 @@
+.header {
+    padding-bottom: 50px;
+}
+
+.hero {
+    background: url(./images/Shypshyna.webp) no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.hero-container {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+}
+
+.hero-title {
+    color: #ca1919;
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-size: 26px;
+    line-height: 1.61em;
+    letter-spacing: 1.56px;
+    max-width: 360px;
+}
+
+.hero-button {
+    margin-top: 200px;
+    color: #fff;
+    line-height: 1.87;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #bd072e;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, .15);
+    cursor: pointer;
+    border: none;
+    max-width: 200px;
+    padding: 10px 24px 10px 24px
+}
+
+.heros {
+    padding-top: 50px;
+}
