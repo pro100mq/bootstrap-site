@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.card-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
